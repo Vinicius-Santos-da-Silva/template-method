@@ -2,9 +2,9 @@
 
 namespace App;
 
-use App\SocialNetwork;
+use App\RedeSocial;
 
-class Facebook extends SocialNetwork
+class Facebook extends RedeSocial
 {
     public function logIn(string $userName, string $password): bool
     {

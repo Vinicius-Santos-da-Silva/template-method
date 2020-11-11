@@ -16,10 +16,11 @@ Para controlar extensões de subclasses.
 ### Como usar Template Method? 
 O Template Method sugere que seja utilizada uma Classe Abstrata que declara um método padrão e os metodos auxiliares que podem ser abstratos ou terem alguma implementação que são utilizados pelo método padrão. E também por subclasses (Classes Concretas), que devem implementar os métodos abstratos.
 
+
 ###  Analogia com o mundo real?
 
-Imagine que você está desenvolvendo uma aplicação para para postagem automática de conteudos em diversas Redes sociais, como por exemplo o Facebook e Twitter.
+Imagine que você está desenvolvendo uma aplicação para para postagem automática de conteúdos em redes sociais, como por exemplo o Facebook e Twitter.
 
-Ambas integrações possuem etapas iguas, entretanto, regras de implementação diferentes. Para este caso, você poderia, por exemplo utilizar o Pattern Template Method. 
+Ambas integrações possuem etapas semelhantes, ou até mesmo iguais para executarem o processo de postagem, entretanto, as regras de implementação diferentes. Para este caso, poderia ser utilizado o Pattern Template Method. 
 
 

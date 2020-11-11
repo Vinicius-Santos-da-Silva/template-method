@@ -2,7 +2,7 @@
 
 namespace App;
 
-abstract class SocialNetwork
+abstract class RedeSocial
 {
     protected $username;
 
